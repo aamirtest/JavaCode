@@ -76,6 +76,8 @@ public class Method {
 		return this;
 	}
 	public static void main(String[] args) {
+		
+	System.out.println("testing");
 	 Method t= new Method();
 	 Method t1= t.m1();
 	 Method t2=t.m2();
