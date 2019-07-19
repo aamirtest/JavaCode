@@ -6,6 +6,8 @@ public class Palindrom {
 
 	public static void main(String[] args) {
 		
+		System.out.println("jenkins test");
+		
 		int s=0,r;
 		
 		Scanner sc = new Scanner(System.in);
